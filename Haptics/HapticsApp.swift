@@ -14,7 +14,7 @@ import SwiftUI
 struct HapticsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MenuView()
         }
     }
 }
