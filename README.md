@@ -1,6 +1,6 @@
 # Haptics
 
-## Based off <a href="https://medium.com/@jpmtech">Chase</a>
+## Inspired by <a href="https://medium.com/@jpmtech">Chase</a>
 
 This app is based off Chase's medium.com article showing how to use haptics. The app provides the user with a basic and custom haptic menu. The Basic option will allow the user to test some Apple provided haptics. The Custom option will allow the user to test a custom haptic.
 
